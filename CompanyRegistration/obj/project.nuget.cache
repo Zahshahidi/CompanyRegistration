@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ThnEGIKMPhEyrx+eW1A9YFE56zWN9vBcuansqsH43FqUuav1+S9p/y08emiDCm53T7BaDhyBwB+dg3mgdZdD3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zshah\\OneDrive\\Desktop\\LP1\\CompanyRegistration\\CompanyRegistration\\CompanyRegistration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zshah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

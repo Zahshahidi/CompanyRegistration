@@ -1,0 +1,16 @@
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\bin\Debug\net5.0\CompanyRegistration.exe
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\bin\Debug\net5.0\CompanyRegistration.deps.json
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\bin\Debug\net5.0\CompanyRegistration.runtimeconfig.json
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\bin\Debug\net5.0\CompanyRegistration.runtimeconfig.dev.json
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\bin\Debug\net5.0\CompanyRegistration.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\bin\Debug\net5.0\CompanyRegistration.pdb
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\CompanyRegistration.csproj.AssemblyReference.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\CompanyRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\CompanyRegistration.AssemblyInfoInputs.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\CompanyRegistration.AssemblyInfo.cs
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\CompanyRegistration.csproj.CoreCompileInputs.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\CompanyRegistration.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\ref\CompanyRegistration.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\CompanyRegistration.pdb
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\CompanyRegistration.genruntimeconfig.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\CompanyRegistration\CompanyRegistration\obj\Debug\net5.0\refint\CompanyRegistration.dll
